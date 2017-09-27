@@ -1,0 +1,26 @@
+E:\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb

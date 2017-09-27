@@ -1,0 +1,42 @@
+E:\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+E:\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+E:\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb

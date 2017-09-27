@@ -1,0 +1,9 @@
+E:\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+E:\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+E:\Laundry\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+E:\Laundry\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+E:\Laundry\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb

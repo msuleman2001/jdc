@@ -1,0 +1,26 @@
+E:\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.dll
+E:\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.pdb
+E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.dll
+E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.pdb
+E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\DataKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\DataKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\DataKernal\obj\Debug\DataKernal.dll
+C:\Users\AymiCH\Google Drive\GreenBoard\Laundry\DataKernal\obj\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\Laundry\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\bin\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\bin\Debug\DataKernal.pdb
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\bin\Debug\getAddress.Sdk.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\obj\Debug\DataKernal.dll
+C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\DataKernal\obj\Debug\DataKernal.pdb
