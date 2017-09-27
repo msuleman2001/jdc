@@ -32,3 +32,11 @@ C:\Users\Aymi Ch\Desktop\GitHub\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\DataKernal\obj\Debug\DataKernal.dll
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\DataKernal\obj\Debug\DataKernal.pdb
+D:\Git\jdc\Laundry\DataKernal\bin\Debug\DataKernal.dll
+D:\Git\jdc\Laundry\DataKernal\bin\Debug\DataKernal.pdb
+D:\Git\jdc\Laundry\DataKernal\bin\Debug\getAddress.Sdk.dll
+D:\Git\jdc\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.dll
+D:\Git\jdc\Laundry\DataKernal\bin\Debug\Newtonsoft.Json.xml
+D:\Git\jdc\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache
+D:\Git\jdc\Laundry\DataKernal\obj\Debug\DataKernal.dll
+D:\Git\jdc\Laundry\DataKernal\obj\Debug\DataKernal.pdb

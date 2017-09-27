@@ -36,3 +36,41 @@ C:\Users\Aymi Ch\Desktop\GitHub\Laundry\Laundry\bin\DataKernal.pdb
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\Laundry\obj\Debug\Laundry.csprojResolveAssemblyReference.cache
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\Laundry\obj\Debug\Laundry.dll
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\Laundry\obj\Debug\Laundry.pdb
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\csc.exe
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\vbc.exe
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\VBCSCompiler.exe
+D:\Git\jdc\Laundry\Laundry\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\jdc\Laundry\Laundry\bin\Laundry.dll.config
+D:\Git\jdc\Laundry\Laundry\bin\Laundry.dll
+D:\Git\jdc\Laundry\Laundry\bin\Laundry.pdb
+D:\Git\jdc\Laundry\Laundry\bin\BusinessEntities.dll
+D:\Git\jdc\Laundry\Laundry\bin\Castle.Core.dll
+D:\Git\jdc\Laundry\Laundry\bin\getAddress.Sdk.dll
+D:\Git\jdc\Laundry\Laundry\bin\LogicKernal.dll
+D:\Git\jdc\Laundry\Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\jdc\Laundry\Laundry\bin\Newtonsoft.Json.dll
+D:\Git\jdc\Laundry\Laundry\bin\Sinch.ServerSdk.Callback.WebApi.dll
+D:\Git\jdc\Laundry\Laundry\bin\Sinch.ServerSdk.dll
+D:\Git\jdc\Laundry\Laundry\bin\Sinch.WebApiClient.dll
+D:\Git\jdc\Laundry\Laundry\bin\System.Net.Http.Formatting.dll
+D:\Git\jdc\Laundry\Laundry\bin\System.Web.Http.dll
+D:\Git\jdc\Laundry\Laundry\bin\DataKernal.dll
+D:\Git\jdc\Laundry\Laundry\bin\BusinessEntities.pdb
+D:\Git\jdc\Laundry\Laundry\bin\LogicKernal.pdb
+D:\Git\jdc\Laundry\Laundry\bin\Castle.Core.xml
+D:\Git\jdc\Laundry\Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\jdc\Laundry\Laundry\bin\Newtonsoft.Json.xml
+D:\Git\jdc\Laundry\Laundry\bin\System.Net.Http.Formatting.xml
+D:\Git\jdc\Laundry\Laundry\bin\System.Web.Http.xml
+D:\Git\jdc\Laundry\Laundry\bin\DataKernal.pdb
+D:\Git\jdc\Laundry\Laundry\obj\Debug\Laundry.csprojResolveAssemblyReference.cache
+D:\Git\jdc\Laundry\Laundry\obj\Debug\Laundry.dll
+D:\Git\jdc\Laundry\Laundry\obj\Debug\Laundry.pdb

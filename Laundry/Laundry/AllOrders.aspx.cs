@@ -237,5 +237,10 @@ namespace Laundry
                 lblAgentName.Text = dtAgent.Rows[0]["AgentName"].ToString();
             }
             }
+
+        protected void Timer1_Tick(object sender, EventArgs e)
+        {
+            PlacedOrders();
+        }
     }
 }

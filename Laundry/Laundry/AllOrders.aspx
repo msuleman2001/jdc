@@ -3,6 +3,17 @@
     <div style="margin-top:5%; margin-left:5%; margin-right:5%">
      <div style="width:100%; color:green" id="divPlaced">
          <h1 style="margin-left:2%; color:#ff6600"><asp:Label runat="server" Text="Placed"></asp:Label></h1>
+         <asp:ScriptManager ID="ScriptManager1" runat="server" />
+                <div>
+                    <asp:Timer ID="Timer1" runat="server" Interval="10000" OnTick="Timer1_Tick">
+                    </asp:Timer>
+                </div>
+                <asp:UpdatePanel ID="UpdatePanel1" UpdateMode="Conditional" runat="server">
+                    <Triggers>
+
+            <asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick" />
+        </Triggers>
+        <ContentTemplate>
          <h3 style="margin-left:2%; color:black; margin-left:15%"><asp:Label runat="server" id="lblPlaced"></asp:Label></h3>
          <asp:GridView ID="gdvPlaced" runat="server" AutoGenerateColumns="False" BorderStyle="Ridge"   Width="100%"   CssClass="table .table-hover " AllowPaging="true" BorderColor="#ff6600" 
                 HeaderStyle-BackColor="#ff6600" HeaderStyle-ForeColor="White" RowStyle-BackColor="#ff9933" AlternatingRowStyle-BackColor="White" 
@@ -69,6 +80,8 @@
 
                     <RowStyle BackColor="#A1DCF2"></RowStyle>
                 </asp:GridView>
+                </ContentTemplate>
+    </asp:UpdatePanel>
     </div>
 
     <div style="width:100%;color:green">

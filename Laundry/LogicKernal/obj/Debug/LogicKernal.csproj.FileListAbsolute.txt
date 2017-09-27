@@ -52,3 +52,15 @@ C:\Users\Aymi Ch\Desktop\GitHub\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.xm
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
 C:\Users\Aymi Ch\Desktop\GitHub\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\LogicKernal.dll
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\LogicKernal.pdb
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\BusinessEntities.dll
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\DataKernal.dll
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\getAddress.Sdk.dll
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.dll
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\BusinessEntities.pdb
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\DataKernal.pdb
+D:\Git\jdc\Laundry\LogicKernal\bin\Debug\Newtonsoft.Json.xml
+D:\Git\jdc\Laundry\LogicKernal\obj\Debug\LogicKernal.csprojResolveAssemblyReference.cache
+D:\Git\jdc\Laundry\LogicKernal\obj\Debug\LogicKernal.dll
+D:\Git\jdc\Laundry\LogicKernal\obj\Debug\LogicKernal.pdb
