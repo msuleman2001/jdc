@@ -15,6 +15,7 @@ namespace Laundry
             if (Session["AdminID"] == null)
                 Response.Redirect("AdminLogin.aspx");
             viewdata();
+            totalincome();
         }
 
         public void viewdata()
@@ -25,6 +26,21 @@ namespace Laundry
             lblAgents.Text = dtAgents.Rows.Count.ToString();
             DataTable dtOrders = LogicKernal.Orders.GetAllOrders();
             lblOrders.Text = dtOrders.Rows.Count.ToString();
+            
+
+        }
+
+        
+
+        public void totalincome()
+        {
+            DataTable dtincome = LogicKernal.OrderDetail.GetAllOrderDetail();
+            int sum = 0;
+            foreach (DataRow dr in dtincome.Rows)
+            {
+                sum += Convert.ToInt32(dr["UnitPrice"]);
+            }
+            lblearning.Text =  "$" + " " + sum.ToString();
 
         }
     }

@@ -1,5 +1,0 @@
-E:\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
-E:\Laundry\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
-E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
-E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb
-E:\Laundry\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

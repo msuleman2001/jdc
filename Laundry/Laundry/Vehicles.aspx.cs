@@ -57,5 +57,10 @@ namespace Laundry
                 Response.Redirect("Vehicles.aspx");
             }
         }
+
+        protected void btnVehicle_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("AddVehicle.aspx");
+        }
     }
 }

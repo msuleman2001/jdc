@@ -52,7 +52,7 @@ namespace Laundry
                 objOrder.Remarks = dtorder.Rows[0]["Remarks"].ToString();
                 objOrder.OrderNumber = dtorder.Rows[0]["OrderNumber"].ToString();
                 if (LogicKernal.Orders.InsertUpdateOrders(objOrder).Rows.Count > 0)
-                    Response.Redirect("AdminDefault.aspx");
+                    Response.Redirect("AllOrders.aspx");
                 else
                     lblerror.Text = "Try Again";
             }

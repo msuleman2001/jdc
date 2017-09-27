@@ -1,5 +1,0 @@
-E:\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.dll
-E:\Laundry\Laundry\DataKernal\bin\Debug\DataKernal.pdb
-E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.dll
-E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.pdb
-E:\Laundry\Laundry\DataKernal\obj\Debug\DataKernal.csprojResolveAssemblyReference.cache

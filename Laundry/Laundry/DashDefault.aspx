@@ -67,12 +67,12 @@
                     </div>
                     <div class="card-content">
                         <p class="category">Total Earning</p>
-                        <h3 class="title"><asp:Label runat="server" ID="Label1" Text="65"></asp:Label></h3>
+                        <h3 class="title"><asp:Label runat="server" ID="lblearning" ></asp:Label></h3>
                     </div>
                     <div class="card-footer">
                         <div class="stats">
                             <i class="material-icons"></i>
-                            <a href="#pablo">View Cash</a>
+                            <a href="#pablo"></a>
                                    
                         </div>
                     </div>

@@ -109,7 +109,6 @@
     <Content Include="AddPreferanceValue.aspx" />
     <Content Include="AddPreferecnes.aspx" />
     <Content Include="AddVehicle.aspx" />
-    <Content Include="AdminDefault.aspx" />
     <Content Include="AdminLogin.aspx" />
     <Content Include="AdminRegister.aspx" />
     <Content Include="AgentDefault.aspx" />
@@ -122,6 +121,7 @@
     <Content Include="DashDefault.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Drivers.aspx" />
+    <Content Include="EditClientProfile.aspx" />
     <Content Include="images\Add.png" />
     <Content Include="images\agent.png" />
     <Content Include="images\Assign.png" />
@@ -154,7 +154,6 @@
     <Content Include="Login.aspx" />
     <Content Include="packages.config" />
     <Content Include="Client.Master" />
-    <Content Include="Admin.Master" />
     <Content Include="Agent.Master" />
     <Content Include="CHANGELOG.md" />
     <Content Include="AdminDashBoard.Master" />
@@ -167,6 +166,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PayPal.aspx" />
+    <Content Include="PreferancesView.aspx" />
     <Content Include="Profile.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="script.js" />
@@ -245,26 +245,12 @@
     <Compile Include="AddVehicle.aspx.designer.cs">
       <DependentUpon>AddVehicle.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Admin.Master.cs">
-      <DependentUpon>Admin.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Admin.Master.designer.cs">
-      <DependentUpon>Admin.Master</DependentUpon>
-    </Compile>
     <Compile Include="AdminDashBoard.Master.cs">
       <DependentUpon>AdminDashBoard.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="AdminDashBoard.Master.designer.cs">
       <DependentUpon>AdminDashBoard.Master</DependentUpon>
-    </Compile>
-    <Compile Include="AdminDefault.aspx.cs">
-      <DependentUpon>AdminDefault.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="AdminDefault.aspx.designer.cs">
-      <DependentUpon>AdminDefault.aspx</DependentUpon>
     </Compile>
     <Compile Include="AdminLogin.aspx.cs">
       <DependentUpon>AdminLogin.aspx</DependentUpon>
@@ -364,6 +350,13 @@
     <Compile Include="Drivers.aspx.designer.cs">
       <DependentUpon>Drivers.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EditClientProfile.aspx.cs">
+      <DependentUpon>EditClientProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditClientProfile.aspx.designer.cs">
+      <DependentUpon>EditClientProfile.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Location.aspx.cs">
       <DependentUpon>Location.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -384,6 +377,13 @@
     </Compile>
     <Compile Include="PayPal.aspx.designer.cs">
       <DependentUpon>PayPal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreferancesView.aspx.cs">
+      <DependentUpon>PreferancesView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreferancesView.aspx.designer.cs">
+      <DependentUpon>PreferancesView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Profile.aspx.cs">
       <DependentUpon>Profile.aspx</DependentUpon>

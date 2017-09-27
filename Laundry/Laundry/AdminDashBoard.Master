@@ -3,6 +3,48 @@
 <html lang="en">
 
 <head>
+        <style>
+        /* Dropdown Button */
+.dropbtn {
+  
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+    </style>
     <meta charset="utf-8" />
     <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png" />
     <link rel="icon" type="image/png" href="../assets/img/favicon.png" />
@@ -35,7 +77,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
 </head>
 
 <body>
@@ -47,7 +88,7 @@
         Tip 2: you can also add an image using data-image tag
     -->
             <div class="logo">
-                <a href="#" class="simple-text">
+                <a href="DashDefault.aspx" class="simple-text">
                     JUST DRY CLEANS
                 </a>
             </div>
@@ -84,7 +125,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="PreferancesView.aspx">
                             <i class="material-icons"> <span class="glyphicon glyphicon-saved"></span></i>
                             <p>Preferances</p>
                         </a>
@@ -102,12 +143,7 @@
                             <p>Maps</p>
                         </a>
                     </li>
-                    <li>
-                        <a href="./notifications.html">
-                            <i class="material-icons text-gray">notifications</i>
-                            <p>Notifications</p>
-                        </a>
-                    </li>
+
 
                 </ul>
             </div>
@@ -135,9 +171,9 @@
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                     <i class="material-icons">notifications</i>
-                                    <span class="notification">5</span>
+                                    <span class="notification"><asp:Label ID="lblnotification" runat="server"></asp:Label></span>
                                     <p class="hidden-lg hidden-md">Notifications</p>
-                                </a>
+                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
                                         <a href="#">Mike John responded to your email</a>
@@ -155,24 +191,20 @@
                                         <a href="#">Another One</a>
                                     </li>
                                 </ul>
+                               
                             </li>
                             <li>
-                                <a href="#pablo" class="dropdown-toggle" data-toggle="dropdown">
-                                    <i class="material-icons">person</i>
-                                    <p class="hidden-lg hidden-md">Profile</p>
-                                </a>
-                            </li>
+                                <div class="dropdown">
+                                      <button onclick="myFunction()" class="dropbtn glyphicon-user"> User</button>
+                                      <div id="myDropdown" class="dropdown-content">
+                                        <a href="#">Link 1</a>
+                                        <a href="#">Link 2</a>
+                                        <a href="#">Link 3</a>
+                                      </div>
+                                    </div>
+                             </li>
                         </ul>
-                        <form class="navbar-form navbar-right" role="search">
-                            <div class="form-group  is-empty">
-                                <input type="text" class="form-control" placeholder="Search">
-                                <span class="material-input"></span>
-                            </div>
-                            <button type="submit" class="btn btn-white btn-round btn-just-icon">
-                                <i class="material-icons">search</i>
-                                <div class="ripple-container"></div>
-                            </button>
-                        </form>
+                       
                     </div>
                 </div>
             </nav>
@@ -219,7 +251,6 @@
         </div>
     </div>
 </body>
-<!--   Core JS Files   -->
 <script src="../assets/js/jquery-3.2.1.min.js" type="text/javascript"></script>
 <script src="../assets/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../assets/js/material.min.js" type="text/javascript"></script>
@@ -245,5 +276,27 @@
 
     });
 </script>
+    <script>
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Close the dropdown menu if the user clicks outside of it
+        window.onclick = function(event) {
+            if (!event.target.matches('.dropbtn')) {
+
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+       
+
+    </script>
 
 </html>

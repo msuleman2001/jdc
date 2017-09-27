@@ -67,5 +67,33 @@
                         </div>                     
                     </div>  
         </div>
-        
+  <script type="text/javascript">
+        $(document).ready(function(){
+            var intervalFunction = setInterval(function () {
+                //$("#lblnotification").hide();
+                //Do your code that execute after 5 mins
+                //lblnotification
+                
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    url: "Adminlogin.aspx/notification",
+                    
+                    data: JSON.stringify({ }),
+                    datatype: "json",
+                    async: false,
+                    success: function (data) {
+                        //var stringData = JSON.stringify(data);
+                    
+                        document.getElementById('lblnotification').innerHTML = data.d;
+                       
+                    },
+                    error: function () { alert("no"); }
+            });
+               
+            }, 10000);
+        });
+       
+</script>
+
 </asp:Content>

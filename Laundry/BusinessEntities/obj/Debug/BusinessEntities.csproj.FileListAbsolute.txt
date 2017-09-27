@@ -24,3 +24,11 @@ C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\bin\Debug\Newtons
 C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
 C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\Users\AymiCH\Desktop\GitHub\jdcApp\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\bin\Debug\getAddress.Sdk.dll
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Aymi Ch\Desktop\GitHub\Laundry\BusinessEntities\obj\Debug\BusinessEntities.pdb

@@ -1,8 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdminDashBoard.Master" AutoEventWireup="true" CodeBehind="Clients.aspx.cs" Inherits="Laundry.Clients" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdminDashBoard.Master" AutoEventWireup="true" enableEventValidation="false" CodeBehind="Clients.aspx.cs" Inherits="Laundry.Clients" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMain" runat="server">
     <div style="margin-top:5%; margin-left:5%; margin-right:5%">
         <h1>Clients</h1>
-    <asp:GridView ID="grdClients" runat="server" CssClass="table table-hover table-responsive" AutoGenerateColumns="False" >
+    <asp:GridView ID="grdClients" runat="server" CssClass="table table-hover table-responsive" AutoGenerateColumns="False" OnRowCommand="grdClients_RowCommand" >
         <HeaderStyle BackColor="#9900cc" ForeColor="White"/>
             <Columns>
                 <asp:BoundField DataField="CustomerName" HeaderText="Name" />

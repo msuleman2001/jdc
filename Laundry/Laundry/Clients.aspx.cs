@@ -14,6 +14,7 @@ namespace Laundry
         {
             if (Session["AdminID"] == null)
                 Response.Redirect("AdminLogin.aspx");
+            if(!Page.IsPostBack)
             AllClients();
         }
         public void AllClients()
@@ -21,6 +22,19 @@ namespace Laundry
             DataTable dtClients = LogicKernal.CustomerProfile.GetAllCustomerProfile();
             grdClients.DataSource = dtClients;
             grdClients.DataBind();
+        }
+
+        protected void grdClients_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+            if (e.CommandName == "EditClient")
+            {
+                Response.Redirect("EditClientProfile.aspx?ClientID=" + e.CommandArgument.ToString());
+            }
+            if (e.CommandName == "deleteClient")
+            {
+                LogicKernal.CustomerProfile.DeleteCustomerProfile(Convert.ToInt32(e.CommandArgument));
+                Response.Redirect("Clients.aspx");
+            }
         }
     }
 }

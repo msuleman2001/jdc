@@ -1,5 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" EnableEventValidation="false" CodeBehind="AddPreferecnes.aspx.cs" Inherits="Laundry.AddPreferecnes" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdminDashBoard.Master" AutoEventWireup="true" EnableEventValidation="false" CodeBehind="AddPreferecnes.aspx.cs" Inherits="Laundry.AddPreferecnes" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="cphMain" runat="server">
 
     
     <div id="signup" style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">

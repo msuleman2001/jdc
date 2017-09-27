@@ -60,6 +60,6 @@
 
                
             </asp:GridView>
-            <asp:Button ID="btnVehicle" runat="server" CssClass="btn" BackColor="#9900cc" ForeColor="White"  Text="Add Vehicle"  />
+            <asp:Button ID="btnVehicle" runat="server" CssClass="btn" BackColor="#9900cc" ForeColor="White"  Text="Add Vehicle" OnClick="btnVehicle_Click"  />
         </div>
 </asp:Content>
